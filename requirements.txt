@@ -1,0 +1,12 @@
+streamlit 
+PyPDF2 
+langchain 
+langchain-google-genai 
+langchain-groq 
+langchain-openai
+langchain-community 
+azure-storage-blob
+databricks-sdk
+faiss-cpu 
+google-generativeai 
+python-dotenv 
